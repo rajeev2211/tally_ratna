@@ -172,6 +172,7 @@ class _HexagonButtonState extends State<HexagonButton> {
 class RectangularButton extends StatefulWidget {
   final String buttonName;
 
+
   RectangularButton({
     Key key,
     this.buttonName,
